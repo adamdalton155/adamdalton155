@@ -15,4 +15,7 @@ Some things about me
 - 🎸 I'm a guitar player that loves playing music such as Red Hot Chilli Peppers, The Smashing Pumpkins and Pink Floyd
 - 💻 I have always had an interest in technology whether it's computers, video games or mobile 
 
+Where I have worked
+- Worked as iOS Tier 1 Advisor for Apple (June 2020-May 2021)(July 2022-April 2023)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamdalton155)](https://github.com/anuraghazra/github-readme-stats)
