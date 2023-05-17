@@ -29,4 +29,4 @@ Where I have worked
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamdalton155&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamdalton155)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamdalton155&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
