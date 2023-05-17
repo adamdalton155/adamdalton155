@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Adam from Ireland, and I am final year computer science student in Atlantic Technological University Galway. I am 24 years old with an interest in coding and always wanting to learn what I can
-
+I'm Adam from Ireland, and I am final year computer science student in Atlantic Technological University Galway. I am 24 years old with an interest in software development and always wanting to learn what I can.
 
 Skills
 - React
