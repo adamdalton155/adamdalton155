@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adam from Ireland, and I am final year computer science student in Atlantic Technological University Galway. I really enjoy working with frameworks such as React, React-Native and Angular. Some languages I also enjoy working with is JavaScript, Java and C#. For databases, I use MySQL and some Platform's as a service I have experience with is AWS Amplify and Heroku.
+I'm Adam from Ireland, and I am final year computer science student in Atlantic Technological University Galway. I am 24 years old with an interest in coding and always wanting to learn what I can
 
 
 Skills
@@ -27,4 +27,6 @@ Some things about me
 Where I have worked
 - 🍎 I worked as iOS Tier 1 Advisor for Apple (June 2020-May 2021)(July 2022-April 2023)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamdalton155)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamdalton155&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamdalton155)](https://github.com/anuraghazra/github-readme-stats)
