@@ -12,6 +12,7 @@ Skills
 - Python
 - MySQL
 
+What I' currently working on
 - 🔭 I’m currently working on Tipper, my final year project
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Full-Stack Web and Mobile Apps 
