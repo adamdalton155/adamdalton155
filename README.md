@@ -11,6 +11,7 @@ Skills
 - C#
 - Python
 - MySQL
+- GitHub
 
 What I' currently working on
 - 🔭 I’m currently working on Tipper, my final year project
