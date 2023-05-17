@@ -10,4 +10,9 @@ Skills: React/React-Native/JavaScript/Java/C#/MySQL
 - 👯 I’m looking to collaborate on Full-Stack Web and Mobile Apps 
 - 📫 How to reach me: https://www.linkedin.com/in/adam-dalton-000284228/ 
 
+Some things about me
+- 👨🏻‍💻 I am 24 years old
+- 🎸 I'm a guitar player that loves playing music such as Red Hot Chilli Peppers, The Smashing Pumpkins and Pink Floyd
+- 💻 I have always had an interest in technology whether it's computers, video games or mobile 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamdalton155)](https://github.com/anuraghazra/github-readme-stats)
