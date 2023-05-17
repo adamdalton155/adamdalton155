@@ -10,7 +10,4 @@ Skills: React/React-Native/JavaScript/Java/C#/MySQL
 - 👯 I’m looking to collaborate on Full-Stack Web and Mobile Apps 
 - 📫 How to reach me: https://www.linkedin.com/in/adam-dalton-000284228/ 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adamdalton155)  
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamdalton155)](https://github.com/anuraghazra/github-readme-stats)
